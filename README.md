@@ -9,6 +9,6 @@ It works by using web socket and the back end is hosted on heroku. The back end 
 # Guide to the code
 
 ## 1. The Chat View Controller:
-![](images/4.png)
+![](Screenshots/4.png)
 
 This is the main view controller that opens up when you load up the app. The swift file for this view controller is in Smack/Controller/ChatVC.swift.
