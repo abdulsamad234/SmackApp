@@ -6,7 +6,9 @@ I really want to push it further and help entry level iOS developers get into op
 
 It works by using web socket and the back end is hosted on heroku. The back end is an API built by the devslopes team.
 
-# How it works and every part of the app and how to modify them in the code
+# Guide to the code
 
+## 1. The Chat View Controller:
+![](images/4.png)
 
-
+This is the main view controller that opens up when you load up the app. The swift file for this view controller is in Smack/Controller/ChatVC.swift.
